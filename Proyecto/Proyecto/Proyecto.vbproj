@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2B468207-10BC-4BFC-9C47-F3C352CD79A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyecto.My.MyApplication</StartupObject>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyecto.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyecto.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\Carp\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador\Menu Usuario.Designer.vb">
+      <DependentUpon>Menu Usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Menu Usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\ModificarU.Designer.vb">
+      <DependentUpon>ModificarU.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\ModificarU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\UsuariosT.Designer.vb">
+      <DependentUpon>UsuariosT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\UsuariosT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conectar.vb" />
+    <Compile Include="Consultas.vb" />
+    <Compile Include="Invitado\ConsultasTvb.Designer.vb">
+      <DependentUpon>ConsultasTvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Invitado\ConsultasTvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invitado\MenuTicket.Designer.vb">
+      <DependentUpon>MenuTicket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Invitado\MenuTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\ConsultasT.Designer.vb">
+      <DependentUpon>ConsultasT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\ConsultasT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockC.vb" />
+    <Compile Include="Reporte\ConsultasIns.Designer.vb">
+      <DependentUpon>ConsultasIns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\ConsultasIns.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\ConsultasIS.Designer.vb">
+      <DependentUpon>ConsultasIS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\ConsultasIS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tecnico\CTicket.Designer.vb">
+      <DependentUpon>CTicket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tecnico\CTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tecnico\Historico.Designer.vb">
+      <DependentUpon>Historico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tecnico\Historico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tecnico\InventarioStock.Designer.vb">
+      <DependentUpon>InventarioStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tecnico\InventarioStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tecnico\MenuControlStock.Designer.vb">
+      <DependentUpon>MenuControlStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tecnico\MenuControlStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tecnico\ModificarStock.Designer.vb">
+      <DependentUpon>ModificarStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tecnico\ModificarStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tecnico\ModificarTC.Designer.vb">
+      <DependentUpon>ModificarTC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tecnico\ModificarTC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tecnico\Stock.Designer.vb">
+      <DependentUpon>Stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tecnico\Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketC.vb" />
+    <Compile Include="Usuario.vb" />
+    <Compile Include="Reporte\HistorialDeCompra.Designer.vb">
+      <DependentUpon>HistorialDeCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\HistorialDeCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\Informes.Designer.vb">
+      <DependentUpon>Informes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\Informes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\ListadoDeTiketsAbiertos.Designer.vb">
+      <DependentUpon>ListadoDeTiketsAbiertos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\ListadoDeTiketsAbiertos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\MenuDeAcceso.Designer.vb">
+      <DependentUpon>MenuDeAcceso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\MenuDeAcceso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\MenuUniversal.Designer.vb">
+      <DependentUpon>MenuUniversal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\MenuUniversal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\Reportes.Designer.vb">
+      <DependentUpon>Reportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\Reportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invitado\Ticket.Designer.vb">
+      <DependentUpon>Ticket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Invitado\Ticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Administrador\Usuarios.Designer.vb">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administrador\Menu Usuario.resx">
+      <DependentUpon>Menu Usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\ModificarU.resx">
+      <DependentUpon>ModificarU.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\UsuariosT.resx">
+      <DependentUpon>UsuariosT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invitado\ConsultasTvb.resx">
+      <DependentUpon>ConsultasTvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invitado\MenuTicket.resx">
+      <DependentUpon>MenuTicket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\ConsultasT.resx">
+      <DependentUpon>ConsultasT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\HistorialDeCompra.resx">
+      <DependentUpon>HistorialDeCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\Informes.resx">
+      <DependentUpon>Informes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\ListadoDeTiketsAbiertos.resx">
+      <DependentUpon>ListadoDeTiketsAbiertos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\MenuDeAcceso.resx">
+      <DependentUpon>MenuDeAcceso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\MenuUniversal.resx">
+      <DependentUpon>MenuUniversal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\Reportes.resx">
+      <DependentUpon>Reportes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invitado\Ticket.resx">
+      <DependentUpon>Ticket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\ConsultasIns.resx">
+      <DependentUpon>ConsultasIns.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\ConsultasIS.resx">
+      <DependentUpon>ConsultasIS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tecnico\CTicket.resx">
+      <DependentUpon>CTicket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tecnico\Historico.resx">
+      <DependentUpon>Historico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tecnico\InventarioStock.resx">
+      <DependentUpon>InventarioStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tecnico\MenuControlStock.resx">
+      <DependentUpon>MenuControlStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tecnico\ModificarStock.resx">
+      <DependentUpon>ModificarStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tecnico\ModificarTC.resx">
+      <DependentUpon>ModificarTC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tecnico\Stock.resx">
+      <DependentUpon>Stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Usuarios.resx">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo+impulso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\93631.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize-window.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageonline-co-whitebackgroundremoved.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

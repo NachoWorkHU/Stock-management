@@ -1,0 +1,217 @@
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Inventario.resources
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.MenuDeAcceso.resources
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Consultas.resources
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.HistorialDeCompra.resources
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.ListadoDeTiketsAbiertos.resources
+C:\Users\Kayse\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Reportes.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Consultas.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.HistorialDeCompra.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.ListadoDeTiketsAbiertos.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.MenuDeAcceso.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Reportes.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Ticket.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.TicketCerrado.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.MenuUniversal.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Salones.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Biblioteca.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Profesores.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Sala.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Taller_M.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.SextoInv.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Tutoria.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.MenuInventario.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.MenuTicket.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.Usuarios.resources
+C:\Users\Administrador\Desktop\Entregas\Programación\1er Entrega_Programacion_SuppTechnology\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasTvb.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.MenuInventario.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasTvb.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.MenuTicket.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Salones.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Biblioteca.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Profesores.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Consultas.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.HistorialDeCompra.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.ListadoDeTiketsAbiertos.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.MenuDeAcceso.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.MenuUniversal.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Reportes.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Ticket.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Sala.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Taller_M.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.SextoInv.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Tutoria.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Usuarios.resources
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Administrador\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.MenuInventario.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasTvb.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.MenuTicket.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Salones.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Biblioteca.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Profesores.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.HistorialDeCompra.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.ListadoDeTiketsAbiertos.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.MenuDeAcceso.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.MenuUniversal.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Reportes.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Ticket.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Sala.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Taller_M.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.SextoInv.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Tutoria.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Usuarios.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Stock.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.UsuariosT.resources
+C:\Users\Administrador\Desktop\Liceo\Correciones\Programación\Proyecto\Proyecto\obj\Debug\Proyecto.Menu_Usuario.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Menu_Usuario.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.MenuInventario.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.UsuariosT.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasTvb.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.MenuTicket.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Salones.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Biblioteca.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Profesores.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.HistorialDeCompra.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.ListadoDeTiketsAbiertos.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.MenuDeAcceso.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.MenuUniversal.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Reportes.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Ticket.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Sala.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Stock.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Taller_M.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.SextoInv.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Tutoria.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Usuarios.resources
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Administrador\Desktop\2da Entrega SuppTechnology\Software - Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Menu_Usuario.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.UsuariosT.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasTvb.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.MenuTicket.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.HistorialDeCompra.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ListadoDeTiketsAbiertos.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.MenuDeAcceso.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.MenuUniversal.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Reportes.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Ticket.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Stock.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Usuarios.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Historico.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.MenuControlStock.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.InventarioStock.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.CTicket.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CopyComplete
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ModificarU.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ModificarTC.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasT.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasIns.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasIS.resources
+C:\Users\6° Tecnologico\Desktop\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ModificarStock.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Menu_Usuario.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ModificarU.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.UsuariosT.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasTvb.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.MenuTicket.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasT.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.HistorialDeCompra.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Informes.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ListadoDeTiketsAbiertos.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.MenuDeAcceso.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.MenuUniversal.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Reportes.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Ticket.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasIns.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ConsultasIS.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.CTicket.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Historico.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.InventarioStock.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.MenuControlStock.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ModificarStock.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.ModificarTC.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Stock.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.Usuarios.resources
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CopyComplete
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\6° Tecnologico\Desktop\Ultima entrega SuppTechnology\Proyecto - Supp\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
